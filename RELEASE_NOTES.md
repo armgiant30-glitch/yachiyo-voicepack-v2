@@ -4,9 +4,9 @@
 
 ## 附件
 
-- `八千代语音包-v2-微调e8.zip`：推荐 s2 LoRA 权重、默认与备用参考音频、22 条情绪参考库、试听样例及安装说明。
-- `八千代-接入后合成样例.wav`：接入后的合成试听样例。
-- `八千代-全过程记录(PROCESS).md`：数据来源、训练、评估、部署和踩坑记录。
+- `yachiyo-voicepack-v2-e8.zip`：推荐 s2 LoRA 权重、默认与备用参考音频、22 条情绪参考库、试听样例及安装说明。
+- `yachiyo-synthesized-sample.wav`：接入后的合成试听样例。
+- `yachiyo-process-record.md`：数据来源、训练、评估、部署和踩坑记录。
 
 ## 实测指标
 
@@ -19,9 +19,9 @@
 ## SHA-256
 
 ```text
-E49867D2A69D7A39ADBA3A911ECFAA617871EDC69DD6CD0345057ABEB0883128  八千代语音包-v2-微调e8.zip
-E20D9EE25AD075618608977D56923F8A414BA0E718F45315460DBB6AAF4AAA30  八千代-接入后合成样例.wav
-3D3302F46BAE2BE18F248183BCE4120401F0738D82639E9EBCCD5AA5FE3ADB58  八千代-全过程记录(PROCESS).md
+E49867D2A69D7A39ADBA3A911ECFAA617871EDC69DD6CD0345057ABEB0883128  yachiyo-voicepack-v2-e8.zip
+E20D9EE25AD075618608977D56923F8A414BA0E718F45315460DBB6AAF4AAA30  yachiyo-synthesized-sample.wav
+3D3302F46BAE2BE18F248183BCE4120401F0738D82639E9EBCCD5AA5FE3ADB58  yachiyo-process-record.md
 ```
 
 本包仅用于个人研究。角色、原始音频及相关素材的版权归原作者或权利方所有，请勿用于商业用途或未经许可的二次分发。
